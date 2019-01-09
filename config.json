@@ -1,0 +1,5 @@
+{
+  "equationUrl": "https://interview.adpeai.com/api/v1/get-task",
+  "submissionUrl": "https://interview.adpeai.com/api/v1/submit-task",
+  "pollDelay": 5000
+}
